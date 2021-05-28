@@ -1,7 +1,7 @@
 # tig-gruvbox
 A Gruxbox Inspired theme for tig
 
-The file in this repo named tigrc can me copied into your own `.tigrc` file in your `$HOME` directory.
+The file in this repo named tigrc can be copied into your own `.tigrc` file in your `$HOME` directory.
 Once there launch tig and it will read the files configs.
 
 Locations for `.tigrc`
